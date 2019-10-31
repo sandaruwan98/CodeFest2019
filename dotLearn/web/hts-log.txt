@@ -1,0 +1,87 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Oct 2019 11:40:36 at https://demo.themex.co/academy/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.themex.co/academy/ -O1 "C:\Users\Dilan\Desktop\dddddddddddd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:43:39	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/home-fitness-training/feed (from https://demo.themex.co/academy/course/home-fitness-training)
+11:43:39	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=230
+11:43:39	Warning: 	File has moved from https://demo.themex.co/academy/?p=230 to https://demo.themex.co/academy/course/home-fitness-training
+11:45:31	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=2112
+11:45:31	Warning: 	File has moved from https://demo.themex.co/academy/?p=2112 to https://demo.themex.co/academy/plans
+11:45:45	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=183
+11:45:45	Warning: 	File has moved from https://demo.themex.co/academy/?p=183 to https://demo.themex.co/academy/about
+11:45:45	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=601
+11:45:45	Warning: 	File has moved from https://demo.themex.co/academy/?p=601 to https://demo.themex.co/academy/support
+11:45:45	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/basic-cooking-techniques/feed (from https://demo.themex.co/academy/course/basic-cooking-techniques)
+11:45:45	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=222
+11:45:45	Warning: 	File has moved from https://demo.themex.co/academy/?p=222 to https://demo.themex.co/academy/course/basic-cooking-techniques
+11:45:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.themex.co/academy/file/10455 (from https://demo.themex.co/academy/course/basic-cooking-techniques)
+11:45:47	Warning: 	Retry after error -4 (Connect Error) at link https://demo.themex.co/academy/file/11455 (from https://demo.themex.co/academy/course/basic-cooking-techniques)
+11:45:47	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/digital-photography/feed (from https://demo.themex.co/academy/course/digital-photography)
+11:45:47	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=233
+11:45:47	Warning: 	File has moved from https://demo.themex.co/academy/?p=233 to https://demo.themex.co/academy/course/digital-photography
+11:45:49	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/architecture-basics/feed (from https://demo.themex.co/academy/course/architecture-basics)
+11:45:49	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=221
+11:45:49	Warning: 	File has moved from https://demo.themex.co/academy/?p=221 to https://demo.themex.co/academy/course/architecture-basics
+11:45:50	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/profile/DinaHamed (from https://demo.themex.co/academy/profile/demo)
+11:45:50	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/profile/text (from https://demo.themex.co/academy/profile/demo)
+11:45:50	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/profile/text jh (from https://demo.themex.co/academy/profile/demo)
+11:45:50	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/profile/afssssssss (from https://demo.themex.co/academy/profile/demo)
+11:45:50	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/spa-treatment-at-home/feed (from https://demo.themex.co/academy/course/spa-treatment-at-home)
+11:45:50	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=229
+11:45:50	Warning: 	File has moved from https://demo.themex.co/academy/?p=229 to https://demo.themex.co/academy/course/spa-treatment-at-home
+11:45:53	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/professional-singing/feed (from https://demo.themex.co/academy/course/professional-singing)
+11:45:53	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=232
+11:45:53	Warning: 	File has moved from https://demo.themex.co/academy/?p=232 to https://demo.themex.co/academy/course/professional-singing
+11:45:55	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/business-management/feed (from https://demo.themex.co/academy/course/business-management)
+11:45:55	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=220
+11:45:55	Warning: 	File has moved from https://demo.themex.co/academy/?p=220 to https://demo.themex.co/academy/course/business-management
+11:45:56	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/club-dance-course/feed (from https://demo.themex.co/academy/course/club-dance-course)
+11:45:56	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=231
+11:45:56	Warning: 	File has moved from https://demo.themex.co/academy/?p=231 to https://demo.themex.co/academy/course/club-dance-course
+11:45:58	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/mountain-hiking-course/feed (from https://demo.themex.co/academy/course/mountain-hiking-course)
+11:45:58	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=228
+11:45:58	Warning: 	File has moved from https://demo.themex.co/academy/?p=228 to https://demo.themex.co/academy/course/mountain-hiking-course
+11:46:00	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/dj-master-lessons/feed (from https://demo.themex.co/academy/course/dj-master-lessons)
+11:46:01	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=219
+11:46:01	Warning: 	File has moved from https://demo.themex.co/academy/?p=219 to https://demo.themex.co/academy/course/dj-master-lessons
+11:46:01	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/home-yoga-practice/feed (from https://demo.themex.co/academy/course/home-yoga-practice)
+11:46:01	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=226
+11:46:01	Warning: 	File has moved from https://demo.themex.co/academy/?p=226 to https://demo.themex.co/academy/course/home-yoga-practice
+11:46:01	Error: 	"Not Found" (404) at link https://demo.themex.co/academy/course/starting-online-business/feed (from https://demo.themex.co/academy/course/starting-online-business)
+11:46:01	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=217
+11:46:01	Warning: 	File has moved from https://demo.themex.co/academy/?p=217 to https://demo.themex.co/academy/course/starting-online-business
+11:46:01	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=400
+11:46:01	Warning: 	File has moved from https://demo.themex.co/academy/?p=400 to https://demo.themex.co/academy/news/learn-basic-cooking-tips
+11:46:05	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=395
+11:46:05	Warning: 	File has moved from https://demo.themex.co/academy/?p=395 to https://demo.themex.co/academy/news/personal-fitness-trainers
+11:46:07	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=390
+11:46:07	Warning: 	File has moved from https://demo.themex.co/academy/?p=390 to https://demo.themex.co/academy/news/new-digital-photography-course
+11:46:07	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=386
+11:46:07	Warning: 	File has moved from https://demo.themex.co/academy/?p=386 to https://demo.themex.co/academy/news/take-singing-lessons-online
+11:46:13	Warning: 	Found for https://demo.themex.co/academy/file/10455
+11:46:13	Warning: 	File has moved from https://demo.themex.co/academy/file/10455 to https://demo.themex.co/academy/course/basic-cooking-techniques
+11:46:13	Warning: 	Found for https://demo.themex.co/academy/file/11455
+11:46:13	Warning: 	File has moved from https://demo.themex.co/academy/file/11455 to https://demo.themex.co/academy/course/basic-cooking-techniques
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=383
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=383 to https://demo.themex.co/academy/news/vestibulum-vitae-nunc-faucibus
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=381
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=381 to https://demo.themex.co/academy/news/donec-ornare-arcu-consequat
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=378
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=378 to https://demo.themex.co/academy/news/nullam-lectus-egestas-sodales
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=375
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=375 to https://demo.themex.co/academy/news/maecenas-elementum-phasellus
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=365
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=365 to https://demo.themex.co/academy/news/vestibulum-vitae-tempus-faucibus
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=358
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=358 to https://demo.themex.co/academy/news/358
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=343
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=343 to https://demo.themex.co/academy/news/nullam-lectus-urna-sodales
+11:46:19	Warning: 	Moved Permanently for https://demo.themex.co/academy/?p=1
+11:46:19	Warning: 	File has moved from https://demo.themex.co/academy/?p=1 to https://demo.themex.co/academy/news/hello-world
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 43 seconds : 360 links scanned, 312 files written (7672224 bytes overall) [6050232 bytes received at 17639 bytes/sec], 2849690 bytes transferred using HTTP compression in 153 files, ratio 21%, 16.1 requests per connection
+(16 errors, 60 warnings, 0 messages)
