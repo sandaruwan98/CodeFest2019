@@ -7,9 +7,6 @@
         <element id="directory" name="classes">
           <element id="module-output" name="dotLearn" />
         </element>
-        <element id="directory" name="lib">
-          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar" />
-        </element>
       </element>
     </root>
   </artifact>
