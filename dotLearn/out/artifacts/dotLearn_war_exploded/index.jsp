@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   </head>
   <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <a class="navbar-brand" href="#">
       <img src="assets/images/logo.png" width="50" height="50" class="d-inline-block align-top" alt="dotLearn Logo">
     </a>
@@ -51,8 +51,9 @@
         </li>-->
       </ul>
       <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <!--<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">-->
+        <button class="btn mr-sm-2" type="button" style="border-color: #000000;color: #000000" onmouseout="this.style.borderColor='#000000';this.style.color='#000000';this.style.backgroundColor='transparent'" onmouseover="this.style.backgroundColor='#000000';this.style.color='#ffffff';">Log In</button>
+        <!--<button class="btn btn-outline-success mr-sm-2" type="button" style="border-color: #000000;color: #000000" onmouseout="this.style.borderColor='#000000';this.style.color='#000000';this.style.backgroundColor='transparent'" onmouseover="this.style.backgroundColor='#000000';this.style.color='#ffffff';">Register</button>-->
       </form>
     </div>
   </nav>

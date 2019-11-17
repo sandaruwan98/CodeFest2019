@@ -18,6 +18,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -134,7 +141,9 @@
       <updated>1573756712925</updated>
       <workItem from="1573756716442" duration="4044000" />
       <workItem from="1573805016305" duration="922000" />
-      <workItem from="1573828366870" duration="278000" />
+      <workItem from="1573828366870" duration="615000" />
+      <workItem from="1573899516296" duration="3485000" />
+      <workItem from="1573973494131" duration="16396000" />
     </task>
     <servers />
   </component>
