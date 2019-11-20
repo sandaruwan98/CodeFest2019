@@ -22,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,10 +37,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\dotLearn\web" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Projects\dotLearn\web" />
     </key>
@@ -143,7 +151,9 @@
       <workItem from="1573805016305" duration="922000" />
       <workItem from="1573828366870" duration="615000" />
       <workItem from="1573899516296" duration="3485000" />
-      <workItem from="1573973494131" duration="16396000" />
+      <workItem from="1573973494131" duration="22519000" />
+      <workItem from="1574055439254" duration="13016000" />
+      <workItem from="1574170670414" duration="598000" />
     </task>
     <servers />
   </component>

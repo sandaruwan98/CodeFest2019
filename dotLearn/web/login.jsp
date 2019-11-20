@@ -21,8 +21,8 @@
             <img class="mx-auto d-block img-fluid" src="assets/images/logo.png">
         </div>
         <div class="col-md-2"></div>
-        <div class="col-md-4 pt-3" style="background: #ffffff;">
-            <form>
+        <div class="col-md-4 pt-3 rounded" style="background: #ffffff;">
+            <form method="post" action="login">
                 <div class="form-row">
                     <div class="col-md-12 mx-auto">
                         <label style="font-size: larger"><b>Login</b></label>
@@ -60,8 +60,8 @@
                 <div class="mb-3" style="text-align: center"><label><a href="">Forgot Password?</a></label></div>
             </form>
             <div class="row" style="background: #d6d8db" >
-                <div class="col-md-12 mb-3 pt-2 mx-auto" style="text-align: center">
-                    <label>Don't have an account? <a href="">Create one</a></label>
+                <div class="col-md-12 mb-3 pt-3 mx-auto" style="text-align: center">
+                    <label>Don't have an account? <a href="register.jsp">Create one</a></label>
                 </div>
             </div>
         </div>
